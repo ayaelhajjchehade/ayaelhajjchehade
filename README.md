@@ -49,6 +49,6 @@ I am deepening my Power BI skills to create interactive, filterable dashboards t
 
 Before publishing this profile, add your professional links below:
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
-- Resume: [Add a link to your resume]
+- LinkedIn: [https://www.linkedin.com/in/aya-elhajjchehade-b07959337?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- Email: [ayaelhajjchehade0@gmail.com]
+- Resume: []
