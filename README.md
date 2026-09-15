@@ -62,4 +62,4 @@ I recently completed my first Power BI project and am continuing to build on it 
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aya-elhajjchehade)
 * **Email:** [ayaelhajjchehade0@gmail.com](mailto:ayaelhajjchehade0@gmail.com)
-* **Resume:** [Resume](https://github.com/ayaelhajjchehade/ayaelhajjchehade/blob/main/ayaelhajjchehade_cv.pdf)
+* **Resume:** [Resume](Aya_ElHajjChehade_CV.docx)
